@@ -23,7 +23,7 @@ FAZER 2 SOBRECARGAS DO CONSTRUTOR
     }
 
 //    Sobrecarga
-    Carro(String cor, String marca, String modelo, float capacidadeTanque) {
+    Carro(String marca, String modelo, String cor, float capacidadeTanque) {
         this.cor = cor; /*essa cor, recebe cor, como parametro*/
         this.marca = marca;
         this.modelo = modelo;
@@ -69,5 +69,7 @@ FAZER 2 SOBRECARGAS DO CONSTRUTOR
     double totalValorTanque(double valorCombustivel){
         return capacidadeTanque * valorCombustivel;
     } /*Esse metodo calcula total para encher o tanque*/
+/*-------------------------------------Criando Objetos e Manipulação------------------------------------------------------*/
+    
 
 }
