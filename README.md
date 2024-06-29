@@ -1,4 +1,4 @@
-# system.out("Hello World")
+# System.out.println("Hello World")
 
 ## JAVA Processo de Aprendizagem
 Aqui todos os exercicios das aulas de Java que estive fazendo ao longo da minha aprendizagem Java
